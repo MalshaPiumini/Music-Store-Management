@@ -1,0 +1,3 @@
+ Title:Black or White  id:3  Price:750.2  Selling Date & Time:2019/08/04 16:00:30  Total Cost:3751.0
+ Title:Black or White  id:3  Price:750.2  Selling Date & Time:2019/08/04 16:00:38  Total Cost:11253.0
+ Title:Black or White  id:3  Price:750.2  Selling Date & Time:2019/08/04 16:00:44  Total Cost:7502.0
